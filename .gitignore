@@ -1,0 +1,25 @@
+# Node
+node_modules
+.env
+.env.local
+.next
+
+# Next.js build
+.next
+dist
+
+# Logs
+*.log
+
+# OS/System files
+.DS_Store
+
+# Output from Vercel/Netlify
+.out
+
+# Firebase
+.firebase
+
+# IDEs
+.vscode
+.idea
